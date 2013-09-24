@@ -11,7 +11,7 @@ public class Game
 {
     public static void main(String[] args)
     {
-        System.out.println("Начало");
+        System.out.println("Begin");
         ViewSpell View = new ViewSpell();
         View.ViewSpell();
 
