@@ -1,11 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="fdf71313-164c-4b8f-a818-0cc4dee6c713" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/Spells/FireBall.java" afterPath="$PROJECT_DIR$/src/Spells/FireBall.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/Spells/FireBolt.java" afterPath="$PROJECT_DIR$/src/Spells/FireBolt.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/Game.java" afterPath="$PROJECT_DIR$/src/Game.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/vcs.xml" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+    <list default="true" id="fdf71313-164c-4b8f-a818-0cc4dee6c713" name="Default" comment="test commit">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gitignore" afterPath="$PROJECT_DIR$/.gitignore" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="Game.iws" />
@@ -21,8 +18,9 @@
     <file path="$PROJECT_DIR$/../untitled1/src/Main.java" changelist="fdf71313-164c-4b8f-a818-0cc4dee6c713" time="1379497442952" ignored="false" />
     <file path="/Main.java" changelist="fdf71313-164c-4b8f-a818-0cc4dee6c713" time="1379496832363" ignored="false" />
     <file path="/Hero.java" changelist="fdf71313-164c-4b8f-a818-0cc4dee6c713" time="1379499363262" ignored="false" />
-    <file path="/Dummy.txt" changelist="fdf71313-164c-4b8f-a818-0cc4dee6c713" time="1380058682025" ignored="false" />
+    <file path="/Dummy.txt" changelist="fdf71313-164c-4b8f-a818-0cc4dee6c713" time="1380058883818" ignored="false" />
     <file path="/a.html" changelist="fdf71313-164c-4b8f-a818-0cc4dee6c713" time="1380058543843" ignored="false" />
+    <file path="/.gitignore" changelist="fdf71313-164c-4b8f-a818-0cc4dee6c713" time="1380058834196" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -142,10 +140,19 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="FireBall.java" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="FireBall.java" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Spells/FireBall.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="2" column="0" selection-start="17" selection-end="17" vertical-scroll-proportion="0.07874016">
+            <state line="2" column="0" selection-start="17" selection-end="17" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name=".gitignore" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/.gitignore">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="215" column="10" selection-start="2649" selection-end="2649" vertical-scroll-proportion="0.7637795">
               <folding />
             </state>
           </provider>
@@ -184,6 +191,7 @@
         <option value="$PROJECT_DIR$/src/ViewSpell.java" />
         <option value="$PROJECT_DIR$/src/Hero.java" />
         <option value="$PROJECT_DIR$/src/Game.java" />
+        <option value="$PROJECT_DIR$/.gitignore" />
       </list>
     </option>
   </component>
@@ -425,11 +433,16 @@
       <created>1379434400792</created>
       <updated>1379434400792</updated>
     </task>
+    <task id="LOCAL-00001" summary="test commit">
+      <created>1380058726066</created>
+      <updated>1380058726066</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="24" width="1382" height="754" extended-state="0" />
-    <editor active="false" />
+    <editor active="true" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32838285" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="JetGradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -439,7 +452,7 @@
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32838285" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32838285" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -463,7 +476,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="OFFER_MOVE_TO_ANOTHER_CHANGELIST_ON_PARTIAL_COMMIT" value="true" />
-    <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="true" />
+    <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
     <option name="CHECK_NEW_TODO" value="true" />
     <option name="myTodoPanelSettings">
       <value>
@@ -524,13 +537,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/Spells/FireBolt.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="14" column="6" selection-start="291" selection-end="291" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/Spells/FireBall.java">
       <provider selected="true" editor-type-id="text-editor">
         <state line="26" column="5" selection-start="501" selection-end="501" vertical-scroll-proportion="0.0">
@@ -625,7 +631,14 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Spells/FireBall.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="2" column="0" selection-start="17" selection-end="17" vertical-scroll-proportion="0.07874016">
+        <state line="2" column="0" selection-start="17" selection-end="17" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="215" column="10" selection-start="2649" selection-end="2649" vertical-scroll-proportion="0.7637795">
           <folding />
         </state>
       </provider>
